@@ -98,9 +98,3 @@ Contributions are welcome! If you'd like to improve the scraping logic or implem
 # Write the content to a file
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(readme_content)
-```
-
-**How to use this:**
-1. Save the generated code into your project folder.
-2. When you push your code to GitHub, this `README.md` will automatically be rendered as your project's homepage.
-3. It includes the **Demerits** section, which adds professional credibility to your repository by showing you understand the edge cases of NLP.
