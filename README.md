@@ -93,8 +93,3 @@ The Luhn algorithm calculates importance based on word frequency. If an article 
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve the scraping logic or implement **Abstractive** summarization, please feel free to open an issue or submit a Pull Request.
-"""
-
-# Write the content to a file
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
